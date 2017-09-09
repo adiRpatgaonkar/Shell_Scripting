@@ -1,0 +1,3 @@
+#!/bin/bash
+echo -n "Enter two numbers "
+read a b
